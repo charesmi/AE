@@ -8,7 +8,7 @@
       id="7c3e3ace-a82d-463d-8c9a-d641cf16e6fe"
       targetConnections="35612791-9cab-4681-aac2-d5efaba46201">
     <bounds
-        x="108"
+        x="144"
         y="192"
         width="120"
         height="55"/>
@@ -20,8 +20,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="502ec562-3739-4e92-8c0e-f1f02be3e34f">
     <bounds
-        x="108"
-        y="348"
+        x="144"
+        y="336"
         width="120"
         height="55"/>
     <archimateElement
