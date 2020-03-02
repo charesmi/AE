@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Data Science AU"
-    id="6abf67c9-527b-477e-b141-7b9ef8d4bad7">
+    id="6abf67c9-527b-477e-b141-7b9ef8d4bad7"
+    viewpoint="application_usage">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="743f8728-5e87-443d-95ac-db1c4190b464"
@@ -345,5 +346,17 @@
     <archimateElement
         xsi:type="archimate:BusinessActor"
         href="BusinessActor_408c5aa8-dbe4-4193-a827-32b5ab41984c.xml#408c5aa8-dbe4-4193-a827-32b5ab41984c"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="a48c7216-a9dc-447d-bff6-d76618c88b7a">
+    <bounds
+        x="171"
+        y="386"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessActor"
+        href="BusinessActor_617511df-7284-48c5-b6bb-b53f685337af.xml#617511df-7284-48c5-b6bb-b53f685337af"/>
   </children>
 </archimate:ArchimateDiagramModel>
