@@ -329,8 +329,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="271bf690-f20c-4488-9748-73d8994879d9">
     <bounds
-        x="111"
-        y="242"
+        x="84"
+        y="276"
         width="120"
         height="55"/>
     <archimateElement
@@ -358,5 +358,17 @@
     <archimateElement
         xsi:type="archimate:ApplicationService"
         href="ApplicationService_59c34502-f4fb-40ab-94b3-2713a53a6052.xml#59c34502-f4fb-40ab-94b3-2713a53a6052"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="b3f94673-c732-43d6-a487-48d085951e3e">
+    <bounds
+        x="270"
+        y="478"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessCollaboration"
+        href="BusinessCollaboration_aa76d37f-1c62-438d-9c48-2743d0549d09.xml#aa76d37f-1c62-438d-9c48-2743d0549d09"/>
   </children>
 </archimate:ArchimateDiagramModel>
