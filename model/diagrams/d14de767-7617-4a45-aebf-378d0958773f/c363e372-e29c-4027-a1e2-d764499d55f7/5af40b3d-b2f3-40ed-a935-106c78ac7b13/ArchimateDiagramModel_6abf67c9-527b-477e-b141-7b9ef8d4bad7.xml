@@ -2,8 +2,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Data Science AU"
-    id="6abf67c9-527b-477e-b141-7b9ef8d4bad7"
-    viewpoint="application_usage">
+    id="6abf67c9-527b-477e-b141-7b9ef8d4bad7">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="743f8728-5e87-443d-95ac-db1c4190b464"
