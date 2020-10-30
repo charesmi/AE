@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Test Daniel 1"
-    id="id-b3170c1c9bbf4a11943612aeb319a810"/>
+    id="id-b3170c1c9bbf4a11943612aeb319a810">
+  <properties
+      key="Unité d'affaires"
+      value="SEAU"/>
+</archimate:Capability>
