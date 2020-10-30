@@ -1,0 +1,42 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="New ArchiMate View"
+    id="id-1ddf130ccf184c8aaf8942f4f66a1181">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-0b04e985a5094975ab28a422d4ab23aa">
+    <bounds
+        x="324"
+        y="156"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Node"
+        href="Node_id-9332f848b29e47029f0bc656cb24a7ef.xml#id-9332f848b29e47029f0bc656cb24a7ef"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-b96ff52653da46839d4a05a3b432f13e">
+    <bounds
+        x="324"
+        y="276"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Device"
+        href="Device_id-8c306b1382284dabb22423acd9b5b4c3.xml#id-8c306b1382284dabb22423acd9b5b4c3"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-c653be9e713e432b8f0e68c2ba610659">
+    <bounds
+        x="324"
+        y="396"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Node"
+        href="Node_id-687f9ea6171a4f1592e9f3081236e57f.xml#id-687f9ea6171a4f1592e9f3081236e57f"/>
+  </children>
+</archimate:ArchimateDiagramModel>
