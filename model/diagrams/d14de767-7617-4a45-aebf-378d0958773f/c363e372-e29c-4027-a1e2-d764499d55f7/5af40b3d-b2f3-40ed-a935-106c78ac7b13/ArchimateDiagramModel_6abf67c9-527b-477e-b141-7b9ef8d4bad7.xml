@@ -224,6 +224,9 @@
         id="id-41eb5a1d22b8467ab30f277576099cdf"
         source="1e10a6f6-bdd7-4b1e-9985-fe3867c5e8ae"
         target="ecbe45d2-9a2c-450b-a8a0-4249a2d0eca1">
+      <features
+          name="labelExpression"
+          value="Réalisation 2"/>
       <archimateRelationship
           xsi:type="archimate:RealizationRelationship"
           href="RealizationRelationship_385ff955-b831-4172-ac72-334acf8a8154.xml#385ff955-b831-4172-ac72-334acf8a8154"/>
