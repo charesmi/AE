@@ -1,7 +1,7 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Libellé relation"
+    name="Libellé relation 1"
     id="id-0bebb8940f64466894ce307dd04b09c2">
   <source
       xsi:type="archimate:ApplicationComponent"
