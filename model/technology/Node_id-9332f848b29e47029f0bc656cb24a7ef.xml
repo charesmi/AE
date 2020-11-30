@@ -1,4 +1,8 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Node"
-    id="id-9332f848b29e47029f0bc656cb24a7ef"/>
+    id="id-9332f848b29e47029f0bc656cb24a7ef">
+  <properties
+      key="Statut"
+      value="0"/>
+</archimate:Node>

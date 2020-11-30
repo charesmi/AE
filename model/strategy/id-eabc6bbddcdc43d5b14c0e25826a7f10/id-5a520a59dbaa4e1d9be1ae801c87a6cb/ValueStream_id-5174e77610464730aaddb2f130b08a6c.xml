@@ -1,4 +1,8 @@
 <archimate:ValueStream
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Value Stream"
-    id="id-5174e77610464730aaddb2f130b08a6c"/>
+    id="id-5174e77610464730aaddb2f130b08a6c">
+  <properties
+      key="Statut"
+      value="0"/>
+</archimate:ValueStream>

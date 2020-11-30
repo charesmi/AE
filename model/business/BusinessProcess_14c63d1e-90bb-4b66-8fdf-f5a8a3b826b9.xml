@@ -1,4 +1,8 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Revue de littérature et vigie"
-    id="14c63d1e-90bb-4b66-8fdf-f5a8a3b826b9"/>
+    id="14c63d1e-90bb-4b66-8fdf-f5a8a3b826b9">
+  <properties
+      key="Statut"
+      value="0"/>
+</archimate:BusinessProcess>

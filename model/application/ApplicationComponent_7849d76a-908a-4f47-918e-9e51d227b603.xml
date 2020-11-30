@@ -1,4 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Pipeline de surveillance"
-    id="7849d76a-908a-4f47-918e-9e51d227b603"/>
+    id="7849d76a-908a-4f47-918e-9e51d227b603">
+  <properties
+      key="Statut"
+      value="0"/>
+</archimate:ApplicationComponent>

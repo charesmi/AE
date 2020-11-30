@@ -1,4 +1,11 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="N1 Gestion ress. technologiques"
-    id="id-249a0f27f3dd4b00a4a9c225866b69b7"/>
+    id="id-249a0f27f3dd4b00a4a9c225866b69b7">
+  <properties
+      key="Statut"
+      value="1000"/>
+  <properties
+      key="Unité d'affaires"
+      value="Finances"/>
+</archimate:Capability>

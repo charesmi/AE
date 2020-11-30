@@ -1,4 +1,8 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Mise en opération"
-    id="dfa4d37c-3521-4f86-94e8-7aee4a45b28d"/>
+    id="dfa4d37c-3521-4f86-94e8-7aee4a45b28d">
+  <properties
+      key="Statut"
+      value="0"/>
+</archimate:BusinessService>

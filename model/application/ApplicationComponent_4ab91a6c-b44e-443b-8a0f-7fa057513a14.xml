@@ -1,4 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Pipeline d'inférence"
-    id="4ab91a6c-b44e-443b-8a0f-7fa057513a14"/>
+    id="4ab91a6c-b44e-443b-8a0f-7fa057513a14">
+  <properties
+      key="Statut"
+      value="0"/>
+</archimate:ApplicationComponent>

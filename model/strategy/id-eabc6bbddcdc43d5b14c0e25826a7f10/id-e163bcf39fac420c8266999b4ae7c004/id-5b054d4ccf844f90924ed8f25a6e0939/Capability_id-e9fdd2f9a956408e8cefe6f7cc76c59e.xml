@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="N4 Gestion relâches"
-    id="id-e9fdd2f9a956408e8cefe6f7cc76c59e"/>
+    id="id-e9fdd2f9a956408e8cefe6f7cc76c59e">
+  <properties
+      key="Statut"
+      value="0"/>
+</archimate:Capability>

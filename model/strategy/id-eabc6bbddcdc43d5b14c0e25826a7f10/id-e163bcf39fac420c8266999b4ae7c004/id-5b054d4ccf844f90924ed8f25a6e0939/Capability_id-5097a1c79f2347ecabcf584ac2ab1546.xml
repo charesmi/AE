@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="N3 Gestion évolution applications"
-    id="id-5097a1c79f2347ecabcf584ac2ab1546"/>
+    id="id-5097a1c79f2347ecabcf584ac2ab1546">
+  <properties
+      key="Statut"
+      value="0"/>
+</archimate:Capability>

@@ -1,4 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Application Component"
-    id="id-7b76ebe1058d4737980a7d60d79d2b50"/>
+    id="id-7b76ebe1058d4737980a7d60d79d2b50">
+  <properties
+      key="Statut"
+      value="0"/>
+</archimate:ApplicationComponent>

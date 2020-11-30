@@ -1,4 +1,8 @@
 <archimate:Device
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Device"
-    id="id-8c306b1382284dabb22423acd9b5b4c3"/>
+    id="id-8c306b1382284dabb22423acd9b5b4c3">
+  <properties
+      key="Statut"
+      value="0"/>
+</archimate:Device>

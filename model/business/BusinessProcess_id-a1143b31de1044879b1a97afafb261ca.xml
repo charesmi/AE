@@ -1,4 +1,8 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Business Process"
-    id="id-a1143b31de1044879b1a97afafb261ca"/>
+    id="id-a1143b31de1044879b1a97afafb261ca">
+  <properties
+      key="Statut"
+      value="0"/>
+</archimate:BusinessProcess>

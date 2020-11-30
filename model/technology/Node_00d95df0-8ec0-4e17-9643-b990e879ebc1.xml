@@ -1,4 +1,8 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Hadoop data node"
-    id="00d95df0-8ec0-4e17-9643-b990e879ebc1"/>
+    id="00d95df0-8ec0-4e17-9643-b990e879ebc1">
+  <properties
+      key="Statut"
+      value="0"/>
+</archimate:Node>

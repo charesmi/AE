@@ -1,4 +1,8 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Préparation des données"
-    id="b7f49635-eedc-43e4-b2fc-fa7df679fae9"/>
+    id="b7f49635-eedc-43e4-b2fc-fa7df679fae9">
+  <properties
+      key="Statut"
+      value="0"/>
+</archimate:BusinessProcess>

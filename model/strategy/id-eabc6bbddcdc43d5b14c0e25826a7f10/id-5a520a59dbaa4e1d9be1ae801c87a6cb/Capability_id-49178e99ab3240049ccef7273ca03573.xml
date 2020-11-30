@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Test Capacité Michel"
-    id="id-49178e99ab3240049ccef7273ca03573"/>
+    id="id-49178e99ab3240049ccef7273ca03573">
+  <properties
+      key="Statut"
+      value="0"/>
+</archimate:Capability>

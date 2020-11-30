@@ -3,6 +3,6 @@
     name="Test Daniel 1"
     id="id-b3170c1c9bbf4a11943612aeb319a810">
   <properties
-      key="Unité d'affaires"
-      value="CHAUDIÈRE!"/>
+      key="Statut"
+      value="0"/>
 </archimate:Capability>

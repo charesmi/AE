@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Test_AE_Git"
     id="18a46ccb-1419-4d1f-9ade-885340ff0aec"
-    version="4.6.0"/>
+    version="4.6.0">
+  <properties
+      key="Unité d'affaires"
+      value="PAS BON !!!"/>
+</archimate:ArchimateModel>

@@ -1,4 +1,8 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Hadoop master node"
-    id="a49e7d1f-3c05-45af-a292-62b54c647eb7"/>
+    id="a49e7d1f-3c05-45af-a292-62b54c647eb7">
+  <properties
+      key="Statut"
+      value="0"/>
+</archimate:Node>

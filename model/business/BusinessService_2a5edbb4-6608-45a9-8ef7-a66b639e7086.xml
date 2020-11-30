@@ -1,4 +1,8 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Surveillance"
-    id="2a5edbb4-6608-45a9-8ef7-a66b639e7086"/>
+    id="2a5edbb4-6608-45a9-8ef7-a66b639e7086">
+  <properties
+      key="Statut"
+      value="0"/>
+</archimate:BusinessService>

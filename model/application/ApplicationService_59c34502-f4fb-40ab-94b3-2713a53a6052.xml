@@ -1,4 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Préparation de données"
-    id="59c34502-f4fb-40ab-94b3-2713a53a6052"/>
+    id="59c34502-f4fb-40ab-94b3-2713a53a6052">
+  <properties
+      key="Statut"
+      value="0"/>
+</archimate:ApplicationService>

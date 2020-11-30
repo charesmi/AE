@@ -1,4 +1,8 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Documentation et communication"
-    id="978647d5-8335-4d5c-9ad5-553fb9048131"/>
+    id="978647d5-8335-4d5c-9ad5-553fb9048131">
+  <properties
+      key="Statut"
+      value="0"/>
+</archimate:BusinessProcess>
