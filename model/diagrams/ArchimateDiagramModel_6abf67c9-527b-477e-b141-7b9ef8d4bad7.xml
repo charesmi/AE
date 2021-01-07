@@ -392,4 +392,7 @@
         xsi:type="archimate:DataObject"
         href="DataObject_id-697331c3a76549dd9ce1dd9d2bf54536.xml#id-697331c3a76549dd9ce1dd9d2bf54536"/>
   </children>
+  <properties
+      key="Statut"
+      value="En cours"/>
 </archimate:ArchimateDiagramModel>

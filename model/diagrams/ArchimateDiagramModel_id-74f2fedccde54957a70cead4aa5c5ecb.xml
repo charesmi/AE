@@ -59,4 +59,7 @@
         xsi:type="archimate:Representation"
         href="Representation_id-b7efdc90face46d68e810eb14394a5b2.xml#id-b7efdc90face46d68e810eb14394a5b2"/>
   </children>
+  <properties
+      key="Statut"
+      value="En cours"/>
 </archimate:ArchimateDiagramModel>
